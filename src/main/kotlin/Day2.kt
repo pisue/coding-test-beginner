@@ -1,5 +1,5 @@
 
-class Day_2 {
+class Day2 {
     //두 수의 나눗셈
     fun no120806(num1: Int, num2: Int): Int = (num1.toDouble() / num2 * 1000).toInt()
 

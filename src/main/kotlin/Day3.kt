@@ -1,4 +1,4 @@
-class Day_3{
+class Day3{
     //나머지 구하기
     fun no120810(num1: Int, num2: Int) = num1 % num2
 
